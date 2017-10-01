@@ -1,0 +1,23 @@
+{
+  "name": "suman.ts",
+  "version": "0.0.1002",
+  "description": "Suman project with TypeScript metadata",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "suman"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sumanjs/suman.ts.git"
+  },
+  "keywords": [
+    "suman",
+    "testing"
+  ],
+  "author": "Olegzandr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sumanjs/suman.ts/issues"
+  },
+  "homepage": "https://github.com/sumanjs/suman.ts#readme"
+}
